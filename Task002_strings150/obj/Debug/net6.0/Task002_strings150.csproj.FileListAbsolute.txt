@@ -1,0 +1,15 @@
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\bin\Debug\net6.0\Task002_strings150.exe
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\bin\Debug\net6.0\Task002_strings150.deps.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\bin\Debug\net6.0\Task002_strings150.runtimeconfig.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\bin\Debug\net6.0\Task002_strings150.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\bin\Debug\net6.0\Task002_strings150.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.csproj.AssemblyReference.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.GeneratedMSBuildEditorConfig.editorconfig
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.AssemblyInfoInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.AssemblyInfo.cs
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.csproj.CoreCompileInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\refint\Task002_strings150.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\Task002_strings150.genruntimeconfig.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task002_strings150\obj\Debug\net6.0\ref\Task002_strings150.dll

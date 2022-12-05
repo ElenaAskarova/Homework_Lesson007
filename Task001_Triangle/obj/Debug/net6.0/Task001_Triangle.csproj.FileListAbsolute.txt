@@ -1,0 +1,15 @@
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\bin\Debug\net6.0\Task001_Triangle.exe
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\bin\Debug\net6.0\Task001_Triangle.deps.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\bin\Debug\net6.0\Task001_Triangle.runtimeconfig.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\bin\Debug\net6.0\Task001_Triangle.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\bin\Debug\net6.0\Task001_Triangle.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.csproj.AssemblyReference.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.AssemblyInfoInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.AssemblyInfo.cs
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.csproj.CoreCompileInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\refint\Task001_Triangle.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\Task001_Triangle.genruntimeconfig.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson007\Task001_Triangle\obj\Debug\net6.0\ref\Task001_Triangle.dll
